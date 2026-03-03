@@ -20,6 +20,13 @@ simple saja untuk pengelolaan file dalam repo ini:
  ### Pertemuan 3 (Operator Relasional, Operator Logika, dan Looping di Java)
  melanjutkan dari materi sebelumnya & sekarang kita belajar lebih dalam mengenai operasi relational & logika di java serta mempelajari looping memakai `for`. Lebih detailnya bisa baca [Pertemuan3](Materi/pertemuan3/readme.md)
 
+ ## Tugas
+
+ ### Tugas 1 (Selection Shorting)
+ penjelasan lengkapnya bisa baca [Tugas1](Tugas/tugas_1/readme.md)
+
+
+
  ## Kontributor
  Karena ini sifatnya sebatas dokumentasi & tempat untuk upload tugas jadi saya tidak menyediakan akses untuk kontribusi apapun (kecuali nantinya jika ada tugas kelompok tertentu)
 
