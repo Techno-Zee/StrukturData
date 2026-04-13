@@ -9,6 +9,7 @@ simple saja untuk pengelolaan file dalam repo ini:
 📦Struktur Data
  ┣ 📂Materi (folder materi & contoh implementasinya)
  ┣ 📂Tugas 
+ ┣ 📂UTS 
  ┗ 📜readme.md (dokumentasi yang juga merujuk pada materi)
  ```
  ## Isi Materi
@@ -23,7 +24,11 @@ simple saja untuk pengelolaan file dalam repo ini:
  ## Tugas
 
  ### Tugas 1 (Selection Shorting)
- penjelasan lengkapnya bisa baca [Tugas1](Tugas/tugas_1/readme.md)
+ penjelasan lengkapnya bisa baca [Tugas1](Tugas/tugas_1/)
+
+## UTS
+
+penjelasan lengkap bisa baca [UTS](UTS/)
 
 
 
