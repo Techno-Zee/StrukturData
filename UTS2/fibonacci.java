@@ -9,9 +9,9 @@ public class fibonacci {
 
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-        System.out.print("Masukkan Jumlah suku fibonachi : ");
+        System.out.print("Masukkan Jumlah suku Fibonacci : ");
         int n = inp.nextInt();
-        System.out.printf("Deret Fibonacci hingga suku ke-%d adalah: ",n);
+        System.out.printf("Deret Fibonacci hingga suku ke-%d adalah: \n",n);
         
         for (int i = 0; i <= n; i++) {
             System.out.print(fbc(i) + (i==n ? "" : ", "));
