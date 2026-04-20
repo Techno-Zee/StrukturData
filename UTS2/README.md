@@ -1,5 +1,17 @@
 # TUGAS UTS 2 (Membuat baris fibonacci dengan metode recursive)
 
+<table>
+    <tr>
+        <td rowspan="2"><img src="2026-04-20-095157.jpg" height="200" alt="photo"></td>
+        <th>Nama :</th>
+        <td>Fahmi Nur Fadillah</td>
+    </tr>
+    <tr>
+        <th>NPM :</th>
+        <td>25161562034</td>
+    </tr>
+</table>
+
 dengan rumus
 ```
 if (n<=1) n
@@ -33,4 +45,4 @@ public static void main(String[] args) {
 ## Hasil
 ![hasil](hasil.png)
 
-![servie](2026-04-20-095157.jpg)
+![servie]()
