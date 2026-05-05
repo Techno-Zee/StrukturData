@@ -1,4 +1,4 @@
-public class TiketBioskop {
+public class Fahmi_Nur_Fadillah_25161562034_Stack {
     // Bagian 1 :Deklarasi stack
     static String[] stack = new String[10];
     static int top = -1;

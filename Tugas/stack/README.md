@@ -9,14 +9,14 @@
         <th>NPM: </th>
         <td>25161562034</td>
     </tr>
-    <tr>
-        <th>Link Yt: </th>
-        <td></td>
-    </tr>
 </table>
 
+**Link Yt:** [https://youtu.be/ymQB6DiJYAk](https://youtu.be/ymQB6DiJYAk)
+
 ## Hitung Total Method
+
 motode yang saya gunakan adalah:
+
 - membaca data array
 - clean = menghapus karakter sebelum (Rp.)
 - melakukan split pada clean
@@ -47,13 +47,16 @@ static String hitungTotal() {
 }
 ```
 
-untuk formating : 
+untuk formating :
+
 - melakukan pengecekan nominal
 - mengembalikan nilai awal sebelum (.)
 - mengembalikan nilai akhir setelah (.)
 
 ## isEmpety Method
-saya merubahnya dari stater karena pada dasarnya top itu hanya akan berubah jika awalannya false. 
+
+saya merubahnya dari stater karena pada dasarnya top itu hanya akan berubah jika awalannya false.
+
 ```java
 static boolean isEmpety() {
     return top == stack.length - 1;
